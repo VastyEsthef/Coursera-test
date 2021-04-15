@@ -1,0 +1,37 @@
+.ChickenText{
+    color: brown;
+    font-style: oblique;
+    background-color: rgb(210, 207, 30);
+}
+
+.BeefText {
+    color: lightseagreen;
+    font-weight: bold;
+    background-color: rgba(96, 228, 69, 0.63);
+}
+
+.SushiText{
+    color: purple;
+    background-color: rgb(233, 144, 111);
+}
+.Title {
+    color: rgb(98, 15, 231);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align:center;
+    opacity: .4;
+    margin: 0px 0px 5px 500px;
+}
+
+#Title{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font: size 100px;
+    text-align: center;
+}
+
+
+div{
+    border: 3px solid black;
+    margin: 30px ;
+}
+
+
