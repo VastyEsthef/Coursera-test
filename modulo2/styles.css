@@ -2,16 +2,16 @@
     box-sizing: border-box;
 }
 .ChickenText{
-    color: brown;
+    color: rgba(224, 93, 93, 0.719);
     font-style: oblique;  
 }
 
 .BeefText {
-    color: rgb(21, 112, 108); 
+    color: rgb(49, 128, 124); 
 }
 
 .SushiText{
-    color: rgb(35, 32, 214);
+    color: rgb(102, 100, 214);
 }
 
 #Menu{
@@ -26,7 +26,7 @@ div{
     border:1px solid rgb(3, 13, 29);
     width:90%;
     padding: 0px;
-    background-color: rgba(230, 163, 202, 0.486);
+    background-color: rgb(116, 8, 31);
 }
 body{
     margin:15px; 
@@ -52,7 +52,7 @@ section{
 }
 
 .SushiT{
-    background-color: rgba(147, 90, 221, 0.726);
+    background-color: rgba(179, 13, 137, 0.733);
 }
 
 p{
