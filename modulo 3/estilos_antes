@@ -2,20 +2,22 @@
     box-sizing: border-box;
 }
 .ChickenText{
-    color: rgba(224, 93, 93, 0.719);
-    font-style: oblique;  
+    color: rgba(168, 32, 32, 0.911);
+    
 }
 
 .BeefText {
-    color: rgb(49, 128, 124); 
+    color: rgb(28, 97, 93);
+    
 }
 
 .SushiText{
-    color: rgb(102, 100, 214);
+    color: rgb(53, 52, 136);
 }
 
 #Menu{
-    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-family:'Courier New', Courier, monospace;
+    
     font-size: 35px;
     text-align: center;
     font-weight: bold;
@@ -24,18 +26,20 @@
 
 div{
     border:1px solid rgb(3, 13, 29);
-    width:90%;
+    width:95%;
     padding: 0px;
-    background-color: rgb(116, 8, 31);
+    background-color: rgba(192, 207, 123, 0.534);
+    font-style: oblique;
 }
 body{
-    margin:15px; 
+    margin:15px;
+    background-color: rgba(86, 39, 173, 0.432);
 }
 
 section{
     text-align: center;
     border:1px solid rgb(19, 13, 13);
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: black;
     font-weight:bold;
     font-style: normal;

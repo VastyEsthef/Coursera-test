@@ -1,0 +1,60 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(17, 5, 17);
+}
+
+
+
+
+.navbar-brand{
+    font-weight: bold;
+    font-size: 30px;
+    font-family: cursive;
+}
+
+
+
+.navbar-toggler{
+    background-color: rgb(224, 210, 5);
+    border: 1px black solid;
+    
+}
+
+
+a {
+    text-align: center;
+    color: grey;
+}
+
+
+
+.text-center{
+    color: rgb(16, 30, 214);
+    font-family:'Courier New', Courier, monospace;
+    font-size: 30px;
+    font-weight: bold;
+    margin: 100px 0px 15px 0px;
+}
+section{
+    
+    text-align: center;
+    padding-bottom: 18px;
+    font-size: 18px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.col-md-12 , .col-xs-12 {
+    margin: 30px 0px 30px 0px;
+    background-color: rgb(224, 210, 5);
+    font-family: cursive;
+    font-size: 16px;
+    text-align:justify;
+    padding:13px
+    
+}
+
+
+
+  
